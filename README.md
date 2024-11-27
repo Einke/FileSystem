@@ -73,7 +73,7 @@ simdisk copy <host>D：\data\sample\test.txt /test/data
 
 本设计任务在于学会如何实现信息的安全管理和进程同步。
 
-
+# 说明：
 
 任务一二已实现，任务三实现了一部分。
 
